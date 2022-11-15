@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "import java.math.BigDecimal\nimport java.math.RoundingMode\n\nfun main()\
+    \ {             \n    // write your code here\n\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12542#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 13 Nov 2022 12:10:53 UTC"
+record: -1

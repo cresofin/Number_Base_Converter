@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 'BigDecimal instances are immutable only when declared with the val keyword '
+- text: All BigDecimal instances are immutable
+- text: All BigDecimal instances are mutable
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12538#comment
+status: Solved
+record: -1
+local_check: false

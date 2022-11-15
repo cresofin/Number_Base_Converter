@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "import java.math.BigDecimal\n\nfun main() {      \n    // write yor code\
+    \ here\n\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14619#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 13 Nov 2022 12:05:34 UTC"
+record: -1
